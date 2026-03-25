@@ -874,6 +874,8 @@ Mano-P，小尺寸端上GUI-VLA模型，直接运行在你的电脑上，支持M
       <td style="text-align: center;"><strong>2.950</strong></td>
       <td style="text-align: center;">0.902</td>
     </tr>
+  </tbody>
+  <tbody>
     <tr>
       <td rowspan="7" style="text-align: left;">SalECI </td>
       <td style="text-align: left;">SSM</td>

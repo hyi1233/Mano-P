@@ -875,6 +875,8 @@ Mano-P, The small-sized end side GUI-VLA model can run directly on your computer
       <td style="text-align: center;"><strong>2.950</strong></td>
       <td style="text-align: center;">0.902</td>
     </tr>
+  </tbody>
+  <tbody>
     <tr>
       <td rowspan="7" style="text-align: left;">SalECI</td>
       <td style="text-align: left;">SSM</td>

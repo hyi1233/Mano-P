@@ -433,6 +433,8 @@ Mano-P，小尺寸端上GUI-VLA模型，直接运行在你的电脑上，支持M
       <td>0.0665</td>
       <td>0.5273</td>
     </tr>
+  </tbody>
+  <tbody>
     <tr>
       <td colspan="13" align="center"><strong>Zero-shot for MLLMs</strong></td>
     </tr>
@@ -639,6 +641,8 @@ Mano-P，小尺寸端上GUI-VLA模型，直接运行在你的电脑上，支持M
       <td>0.1395</td>
       <td>0.5859</td>
     </tr>
+  </tbody>
+  <tbody>
     <tr>
       <td colspan="13" align="center"><strong>Fine-tune for MLLMs</strong></td>
     </tr>
@@ -700,6 +704,8 @@ Mano-P，小尺寸端上GUI-VLA模型，直接运行在你的电脑上，支持M
       <td>2.0621</td>
       <td>0.8627</td>
     </tr>
+  </tbody>
+  <tbody>
     <tr>
       <td colspan="13" align="center"><strong>Mano-P 1.0</strong></td>
     </tr>

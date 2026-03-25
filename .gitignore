@@ -1,0 +1,9 @@
+# macOS-specific files
+.DS_Store
+
+# environment variables
+.env
+
+.vscode/
+.claude/
+*.log*

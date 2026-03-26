@@ -110,7 +110,7 @@ Mano-P, The small-sized end side GUI-VLA model can run directly on your computer
 <details>
 <summary>📊 Expand Evaluation Data</summary>
 
-#### [OSWorld](https://os-world.github.io/) - Specialized Mode
+#### [OSWorld](https://os-world.github.io/) - Specialized Models
 
 <table>
   <thead>

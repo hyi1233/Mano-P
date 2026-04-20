@@ -70,7 +70,7 @@ https://github.com/user-attachments/assets/7637957d-aa5e-48c1-b823-56ff392181ab
 
 我们演示了mano-afk全自动化应用构建流程。系统接收自然语言需求后，依次完成需求澄清、技术架构设计、代码生成、本地部署及多层级测试（API接口测试、基于LLM的页面视觉检测、以及通过VLA模型驱动的端到端GUI自动化测试）。测试未通过时，系统自动定位问题根因、修复代码并重新部署验证，循环迭代直至所有测试用例通过。全流程无需人工干预，最终交付可运行的应用及完整的需求文档与构建报告。
 
-[![Watch on Bilibili](https://img.shields.io/badge/Watch%20on-Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV13MQSBQEnS/?share_source=copy_web&vd_source=a259b97248b3127e1c3761e841cae8e1)
+[![Watch on 微信视频号](https://img.shields.io/badge/Watch%20on-微信视频号-07C160?logo=wechat&logoColor=white)](https://weixin.qq.com/sph/A7eBqGJkH0)
 
 ### 场景 2: 商业视频智能系统
 
@@ -78,7 +78,7 @@ https://github.com/user-attachments/assets/64c7dca1-973f-4c36-b30e-1f4e0e9e8a03
 
 我们完整演示了一套商业视频智能系统的实际工作流程。从用户下发指令开始，系统自动完成视频生成、上传、分析、剪辑再到二次评测的全过程。过程中，系统可自主操作网页与剪辑软件，完成文件处理、字幕修改等精细操作，并生成包含主观评价与客观指标的分析报告。通过对比初版与精剪版本的差异，直观呈现系统的整体能力与应用效果。
 
-[![Watch on Bilibili](https://img.shields.io/badge/Watch%20on-Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV183QSBSEgJ/?share_source=copy_web&vd_source=a259b97248b3127e1c3761e841cae8e1)
+[![Watch on 微信视频号](https://img.shields.io/badge/Watch%20on-微信视频号-07C160?logo=wechat&logoColor=white)](https://weixin.qq.com/sph/A0vd7EAezv)
 
 ### 场景 3: 本地模型任务执行
 
@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/cb3e65be-eaf5-44a5-9f38-1415c12a8a43
 
 Mano-P，小尺寸端上GUI-VLA模型，直接运行在你的电脑上，支持M4芯片及以上的Macmini/Macbook直接推理运行，也支持在即插即用算力棒上直接运行。在CUA场景中，打通Agent工作流人类参与其中的瓶颈。Mano-P，引领AI for Personal/Party第一步。
 
-[![Watch on Bilibili](https://img.shields.io/badge/Watch%20on-Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV1xzQUBrEtq/?share_source=copy_web&vd_source=a259b97248b3127e1c3761e841cae8e1)
+[![Watch on 微信视频号](https://img.shields.io/badge/Watch%20on-微信视频号-07C160?logo=wechat&logoColor=white)](https://weixin.qq.com/sph/AkCLmX4NTA)
 
 ### 场景 4: 生活娱乐场景应用
 
@@ -94,7 +94,15 @@ https://github.com/user-attachments/assets/397a0552-9611-4d74-9f24-99544da272b6
 
 Mano-P不仅能胜任企业级业务自动化，更能融入日常生活。本视频展示系统在麻将游戏中的应用：通过纯视觉理解游戏界面，自主完成识牌、分析和决策。这一案例验证了Mano-P在非工作场景下的通用能力——从办公自动化到休闲娱乐，从结构化数据处理到非结构化游戏交互，真正实现"AI for Personal"的愿景。一个模型，适配生活与工作的方方面面。
 
-[![Watch on Bilibili](https://img.shields.io/badge/Watch%20on-Bilibili-00A1D6?logo=bilibili&logoColor=white)](https://www.bilibili.com/video/BV13hXsB9Eo7/?share_source=copy_web&vd_source=a259b97248b3127e1c3761e841cae8e1)
+[![Watch on 微信视频号](https://img.shields.io/badge/Watch%20on-微信视频号-07C160?logo=wechat&logoColor=white)](https://weixin.qq.com/sph/AOzBArrvd7)
+
+### 场景 5: 策略博弈场景应用
+
+https://github.com/user-attachments/assets/9558bb35-e6a4-4cb8-b35e-ce8270389ad8
+
+继麻将之后，我们进一步展示 Mano-P 在**德州扑克**中的应用。相比信息相对完整的麻将，德州扑克是典型的**不完全信息博弈**——Mano-P 需要在仅能看到公共牌和自己底牌的条件下，通过纯视觉理解牌面、筹码、底池和对手下注动作，自主完成概率评估、位置判断与下注决策（跟注/加注/弃牌）。这一案例进一步验证了 Mano-P 在**高不确定性决策场景**下的推理能力——从确定性规则的办公流程，到概率博弈的策略推演，单一模型即可覆盖从工作到娱乐、从确定到不确定的多元场景，兑现"AI for Personal"的核心承诺。
+
+[![Watch on 微信视频号](https://img.shields.io/badge/Watch%20on-微信视频号-07C160?logo=wechat&logoColor=white)](https://weixin.qq.com/sph/AkMKMcCCx4)
 
 ---
 
